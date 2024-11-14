@@ -1,7 +1,7 @@
 # CanvasEditor
 
 <p>
-<a href="https://github.com/WindrunnerMax/CanvasEditor">GitHub</a>
+<a href="https://github.com/hmisaka/CanvasEditor">GitHub</a>
 <span>｜</span>
 <a href="https://windrunnermax.github.io/CanvasEditor/">DEMO</a>
 <span>｜</span>
